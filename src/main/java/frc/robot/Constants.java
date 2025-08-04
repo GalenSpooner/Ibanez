@@ -26,4 +26,16 @@ public final class Constants {
     public static final int kLeftID = 17;
     public static final int kRightID = 18;
   }
+  public static class ClimbConstants{
+    public static final int kLeftID = 19;
+    public static final int kRightID = 20;
+  }
+  public static class EndEffectorConstants{
+    public static final int kSensorID = 21;
+    public static final int kMotorID = 22; 
+  }
+
+  public static class LEDConstants{
+    public static final int kCandleID = 23;
+  }
 }
